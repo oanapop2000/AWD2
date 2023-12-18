@@ -3,3 +3,5 @@ from = "/*"
 to = "/index.html"
 status =  200
 
+[build]
+  command = "REACT_APP_CONTEXT=$CONTEXT npm run build"
