@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AWD2/static/css/main.b9621483.css",
+    "main.js": "/AWD2/static/js/main.3ec898a4.js",
+    "static/js/787.b06a539f.chunk.js": "/AWD2/static/js/787.b06a539f.chunk.js",
+    "static/media/profilePicture2.jpg": "/AWD2/static/media/profilePicture2.226f6d7fb7bd425c72a5.jpg",
+    "static/media/logo_en.png": "/AWD2/static/media/logo_en.b350b604404bcd2faf7b.png",
+    "index.html": "/AWD2/index.html",
+    "main.b9621483.css.map": "/AWD2/static/css/main.b9621483.css.map",
+    "main.3ec898a4.js.map": "/AWD2/static/js/main.3ec898a4.js.map",
+    "787.b06a539f.chunk.js.map": "/AWD2/static/js/787.b06a539f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9621483.css",
+    "static/js/main.3ec898a4.js"
+  ]
+}
